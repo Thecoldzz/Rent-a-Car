@@ -1,6 +1,9 @@
-package interfaces.exercice.entities;
+package interfaces.exercice.services;
 
 import java.time.Duration;
+
+import interfaces.exercice.entities.CarRental;
+import interfaces.exercice.entities.Invoice;
 
 
 

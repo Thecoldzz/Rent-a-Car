@@ -1,4 +1,4 @@
-package interfaces.exercice.entities;
+package interfaces.exercice.services;
 
 public class BrazilTaxService implements TaxService{
     
